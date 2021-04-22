@@ -17,6 +17,8 @@ IT 行业淘汰的永远只是那些初级水平的从业者，过硬技术的�
 * [一个可以看执行过程的网站](http://www.pythontutor.com/visualize.html#mode=edit)
 
 
+#为什么学Python
+Python 有强大的功能库，能非常快速的开发工具
 
 # Python 入门
 
@@ -25,8 +27,30 @@ IT 行业淘汰的永远只是那些初级水平的从业者，过硬技术的�
 在 Python 入门中，本人编写了一系列的 《草根学 Python 》 文章， 是基于 Python 3.6 写的 Python 入门系列教程，为了更好的阅读，把它整理在 [GitBook](https://www.readwithu.com/) 上，希望对各位入门 Python 有所帮助。
 
 **主要目录如下：**
+* Python基本知识
 
-* [为什么学Python?](/Article/PythonBasis/python0/WhyStudyPython.md)
+* Python数据类型
+  - Number数据类型
+     --整型int
+     --浮点型float
+     --布尔型bool
+     --复数
+     --数据类型转换
+     
+  - 容器数据类型
+     --字符串
+     --列表List
+     --元组Tuple
+     --字典Dict
+     --集合Set
+     
+* Python运算符
+* Python控制流
+* Python输入和输出
+* Python函数
+* Python模块
+
+
 * [Python代码规范](/Article/codeSpecification/codeSpecification_Preface.md)
   - [简明概述](/Article/codeSpecification/codeSpecification_first.md)
   - [注释](/Article/codeSpecification/codeSpecification_second.md)
