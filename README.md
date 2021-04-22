@@ -31,23 +31,16 @@ Python 有强大的功能库，能非常快速的开发工具
 
 * Python数据类型
   - Number数据类型
-     --整型int
-     --浮点型float
-     --布尔型bool
-     --复数
-     --数据类型转换
-     
   - 容器数据类型
-     --字符串
-     --列表List
-     --元组Tuple
-     --字典Dict
-     --集合Set
-     
+    
 * Python运算符
+* 
 * Python控制流
+* 
 * Python输入和输出
+* 
 * Python函数
+* 
 * Python模块
 
 
